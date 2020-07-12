@@ -19,3 +19,4 @@ This folder contain all image that used in this application.
 
 ## app.pyw
 * This is the main coding file.
+* .pyw extension to hide the console window when you will package the application.
