@@ -24,4 +24,4 @@ cx_Freeze.setup(
     executables=executables
 )
 
-# Run this command python setup.py bdist_msi
+# Run this command : python setup.py bdist_msi
