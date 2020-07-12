@@ -25,6 +25,6 @@ This folder contain all image that used in this application.
 * This folder contain cx_freeze script to convert into exe or msi
 
 ## Screenshot of GUI
-<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/screenshot_1.png" height="100">
-<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/Screenshot_2.png" height="100">
-<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/Screenshot_3.png" height="100">
+<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/screenshot_1.png" height="500">
+<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/Screenshot_2.png" height="500">
+<img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/Screenshot_3.png" height="500">
