@@ -1,2 +1,3 @@
-# Password-Generator
-Python based password generator GUI
+<div align="center">
+  <h1>Password Generator</h1>
+</div>
