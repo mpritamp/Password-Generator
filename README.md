@@ -5,7 +5,7 @@ Everything About Password Generator
 
 ## List of Content
 * [Image](#Image)
-* app.pyw
+* [app.pyw](#app.pyw)
 * setup.py
 
 ## Image
@@ -16,6 +16,6 @@ This folder contain all image that used in this application.
 <img src="https://github.com/mpritamp/Password-Generator/blob/master/Image/shield.png" height="50">
   </p>
 </div>
-## app.pyw
 
+## app.pyw
 * This is the main coding file.
