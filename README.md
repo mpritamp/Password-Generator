@@ -6,7 +6,7 @@ Everything About Password Generator
 ## List of Content
 * [Image](#Image)
 * [app.pyw](#app.pyw)
-* setup.py
+* [setup.py](#setup.py)
 
 ## Image
 This folder contain all image that used in this application.
@@ -20,3 +20,6 @@ This folder contain all image that used in this application.
 ## app.pyw
 * This is the main coding file.
 * .pyw extension to hide the console window when you will package the application.
+
+## setup.py
+* This folder contain cx_freeze script to convert into exe or msi
